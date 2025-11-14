@@ -2,7 +2,7 @@
 🚀 My GitHub journey starts here.
 <h1 align="center">Hey there, I'm Sreekar 👋</h1>
 <p align="center">
-  <em>Student @ SRIIT | Python & Web Dev Learner | Future Freelancer 🚀</em>
+  <em>Student @ KMEC | Python & Web Dev Learner | Future Freelancer 🚀</em>
 </p>
 
 ---
@@ -39,7 +39,7 @@ Stay tuned for more commits, projects & growth!
 ---
 
 <p align="center">
-  <strong>📍 Currently at: SRIIT | 🛠 Grinding quietly, building loudly.</strong><br>
+  <strong>📍 Currently at: KMEC | 🛠 Grinding quietly, building loudly.</strong><br>
   <em>💬 Let's connect soon... but first, let me build something worth showing 😎</em>
 </p>
 
