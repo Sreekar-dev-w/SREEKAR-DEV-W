@@ -15,11 +15,11 @@
 
 ---
 
-### 🧠 My Goals (2025 Edition):
+### 🧠 My Goals (2026 Edition):
 - ✅ Build 5+ public GitHub projects
 - ✅ Start freelancing by 2nd year
 - ✅ Reach ₹25K/month income before graduation
-- ✅ Contribute to open-source by the end of 2025
+- ✅ Contribute to open-source by the end of 2026
 
 ---
 
