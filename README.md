@@ -1,45 +1,83 @@
-# SREEKAR-DEV-W
-🚀 My GitHub journey starts here.
-<h1 align="center">Hey there, I'm Sreekar 👋</h1>
+# 👋 Hey, I'm Sreekar
+
 <p align="center">
-  <em>Student @ KMEC | Python & Web Dev Learner | Future Freelancer 🚀</em>
+  <strong>Engineering Student | Developer | Linux Enthusiast</strong>
+</p>
+
+<p align="center">
+  Building things, breaking things, understanding how they work, and occasionally making Linux do things it wasn't supposed to do. ⚡
 </p>
 
 ---
 
-### 🔧 What I'm Working On:
-- Learning **Python** fundamentals
-- Exploring **HTML / CSS / JS** basics
-- Getting started with **GitHub projects**
-- Building a strong **coding foundation**
+### 🧑‍💻 About Me
+
+- 🎓 Engineering student at **Keshav Memorial Engineering College, Hyderabad**
+- 🐧 Linux enthusiast exploring the internals of desktop systems and hardware
+- 💻 Interested in systems programming, AI/ML, developer tools and cybersecurity
+- 🔬 I enjoy experimenting with technologies and building practical projects
+- 🌱 Currently expanding my knowledge of software engineering and open source
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+**Web & Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**AI / ML & Tools**
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+**Operating Systems**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Pop OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white)
 
 ---
 
-### 🧠 My Goals (2026 Edition):
-- ✅ Build 5+ public GitHub projects
-- ✅ Start freelancing by 2nd year
-- ✅ Reach ₹25K/month income before graduation
-- ✅ Contribute to open-source by the end of 2026
+### 🚀 Projects
 
----
+| Project | Description | Technologies |
+|---|---|---|
+| [SENTINEL](https://github.com/SREEKAR-DEV-W) | Web security assessment tooling | Python |
+| OpenFan | Linux fan control and thermal monitoring experiment | Rust, Linux |
+| JARVIS | Hybrid AI assistant experimenting with local and cloud models | Python, Gemini, Ollama |
 
-### 📌 Tech I'm Exploring:
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+*Project links and descriptions should be replaced with their individual repository links as they become public.*
 
----
+### 🏆 Achievements
 
-### 📈 Stats (Coming Soon...)
-Once I start pushing code regularly, GitHub will show stats here 👇  
-Stay tuned for more commits, projects & growth!
+- 🥈 Runner-up — Algo Ranabhoomi 2026
+- 🏆 Winner — C Code Champs
+- 🎓 Completed an AI/ML course from Pluto Academy
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SREEKAR-DEV-W&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SREEKAR-DEV-W&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SREEKAR-DEV-W&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 <p align="center">
-  <strong>📍 Currently at: KMEC | 🛠 Grinding quietly, building loudly.</strong><br>
-  <em>💬 Let's connect soon... but first, let me build something worth showing 😎</em>
+  <i>Build. Experiment. Break. Understand. Repeat.</i>
 </p>
-
