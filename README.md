@@ -67,15 +67,20 @@
 
 ### 📊 GitHub Statistics
 
+### 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SREEKAR-DEV-W&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SREEKAR-DEV-W&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SREEKAR-DEV-W&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&ring_color=39FF14" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SREEKAR-DEV-W&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SREEKAR-DEV-W&theme=tokyonight&hide_border=true"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=SREEKAR-DEV-W&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=777777" />
 </p>
 
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SREEKAR-DEV-W&bg_color=0D1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true" />
+</p>
 ---
 
 <p align="center">
