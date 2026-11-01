@@ -53,11 +53,9 @@
 
 | Project | Description | Technologies |
 |---|---|---|
-| [SENTINEL](https://github.com/SREEKAR-DEV-W) | Web security assessment tooling for authorized security testing | Python |
-| SAT Query AI | AI-powered satellite imagery query and analysis system developed for Smart India Hackathon | AI/ML, Satellite Imagery |
+| [SENTINEL](https://github.com/Sreekar-dev-w/SENTINEL-) | Web security assessment tooling for authorized security testing | Python |
+| [SAT Query AI](https://github.com/Sreekar-dev-w/SatQuery-AI) | AI-powered satellite imagery query and analysis system developed for Smart India Hackathon | AI/ML, Satellite Imagery |
 | Machine Learning Experiments | Hands-on ML implementations covering regression and classification | Python, Pandas, Scikit-learn |
-
----
 
 ### 🏆 Achievements
 
