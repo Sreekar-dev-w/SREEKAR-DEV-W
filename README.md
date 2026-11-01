@@ -53,11 +53,11 @@
 
 | Project | Description | Technologies |
 |---|---|---|
-| [SENTINEL](https://github.com/SREEKAR-DEV-W) | Web security assessment tooling | Python |
-| OpenFan | Linux fan control and thermal monitoring experiment | Rust, Linux |
-| JARVIS | Hybrid AI assistant experimenting with local and cloud models | Python, Gemini, Ollama |
+| [SENTINEL](https://github.com/SREEKAR-DEV-W) | Web security assessment tooling for authorized security testing | Python |
+| SAT Query AI | AI-powered satellite imagery query and analysis system developed for Smart India Hackathon | AI/ML, Satellite Imagery |
+| Machine Learning Experiments | Hands-on ML implementations covering regression and classification | Python, Pandas, Scikit-learn |
 
-*Project links and descriptions should be replaced with their individual repository links as they become public.*
+---
 
 ### 🏆 Achievements
 
@@ -65,7 +65,7 @@
 - 🏆 Winner — C Code Champs
 - 🎓 Completed an AI/ML course from Pluto Academy
 
-### 📊 GitHub Statistics
+---
 
 ### 📊 GitHub Statistics
 
@@ -81,6 +81,7 @@
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SREEKAR-DEV-W&bg_color=0D1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true" />
 </p>
+
 ---
 
 <p align="center">
